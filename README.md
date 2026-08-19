@@ -1,5 +1,5 @@
 # Visiyon AI Selfhosted Open AI Claude Code, Claude Coding, Selfhosted Claude API, Run Your Own Claude On Your Server, Saas AI, Cursor XAI, Grok AI, Selfhosted GROK AI, Deepseek, Qwen AI, GLM 5.2 AI, KIMI 3 AI Selfhosted Platform, Anthropic Platform 🚀
-
+Selfhosted Anthropic Fable 5 AI, Sonnet 5, Opus 5, Haiku 5 AI Selfhosted, Gemini AI Selfhosted Google AI Selfhosted Run AI on Your Pc Laptop, Smartphone, Servers 
 A self-hosted AI assistant platform for Ubuntu Server 22.04, powered by Ollama.
 Next.js 15 · React 19 · TypeScript · Tailwind · Fastify · PostgreSQL · Prisma · Redis · Nginx · Docker Compose.
 
